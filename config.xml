@@ -4,10 +4,10 @@
 		id          = "businesscard"
         version     = "1.0.0" >
 
-    <name>Business Card</name>
-    <description>My business card</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
+    <name>Network App</name>
+    <description>Network Application</description>
+    <author href="" email="gutmateusz96@interia.pl">
+		Mateusz Gut
 	</author>
 	<platform name="android" />
 	
